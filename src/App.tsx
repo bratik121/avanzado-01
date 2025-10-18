@@ -5,7 +5,7 @@ function App() {
 	return (
 		<div>
 			<h1>Mi primer proyecto en react</h1>
-			<p>Hecho por bryant</p>
+			<h1>Hecho por bryant</h1>
 			<img src={reactLogo} alt="" />
 		</div>
 	);
